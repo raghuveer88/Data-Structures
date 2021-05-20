@@ -54,7 +54,7 @@
 1) Queue using stack<br>
 2) Stack using queue
 
-#How to execute
+# How to execute
 All programs you can execute using<br> 
 To compile - gcc filename.c <br>
 To execute - ./a.out
